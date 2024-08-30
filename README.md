@@ -47,4 +47,4 @@ $ git clone https://github.com/heberGustavo/porta-da-felicidade-web.git
 
 
 ## :memo: Licence 
-This project is under the MIT license. See the [LICENSE](https://github.com/heberGustavo/sorteios/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/heberGustavo/porta-da-felicidade-web/blob/main/LICENSE) for more information.
