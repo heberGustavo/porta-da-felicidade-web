@@ -15,6 +15,9 @@
 - Next JS
 - TypeScript
 - Router
+- Components
+- Functions
+- Models
 
 ## :gear: Architecture
 ![image](https://github.com/user-attachments/assets/82075bc4-2f85-4078-be57-86af3aa81e3f)
