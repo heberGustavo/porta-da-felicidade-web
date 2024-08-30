@@ -1,7 +1,24 @@
-export default function Home() {
-  return(
-    <div>
-      <h1>Formulário de Início</h1>
+import styles from "../styles/Formulario.module.css";
+import Cartao from "../../components/Cartao";
+import Link from "next/link";
+
+export default function Formulario() {
+  return (
+    <div className={styles.formulario}>
+      <div>
+        <Cartao bgcolor="#c0392c">
+          <h2>Porta da Felicidade</h2>
+        </Cartao>
+        <Cartao />
+      </div>
+      <div>
+        <Cartao />
+        <Cartao bgcolor="#28a085" >
+          <Link href={`/jogo/4/2`}>
+            <h3 className={styles.link}>Iniciar</h3>
+          </Link>
+        </Cartao>
+      </div>
     </div>
   );
 }
