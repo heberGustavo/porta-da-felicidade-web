@@ -1,4 +1,4 @@
-import styles from "../src/styles/EntradaNumerica.module.css";
+import styles from "@/styles/EntradaNumerica.module.css";
 
 interface EntradaNumericaProps{
     text: string,

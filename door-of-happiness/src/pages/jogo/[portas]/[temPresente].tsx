@@ -1,8 +1,8 @@
 /* eslint-disable react-hooks/rules-of-hooks */
-import styles from "../../../styles/Jogo.module.css";
+import styles from "@/styles/Jogo.module.css";
 import { useEffect, useState } from "react";
 import { alterarPorta, criarPortas } from "../../../../functions/portas";
-import Porta from "../../../../components/Porta";
+import Porta from "@/components/Porta";
 import Link from "next/link";
 import { useRouter } from "next/router";
 

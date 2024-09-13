@@ -1,7 +1,7 @@
 import styles from "../styles/Formulario.module.css";
-import Cartao from "../../components/Cartao";
+import Cartao from "@/components/Cartao";
 import Link from "next/link";
-import EntradaNumerica from "../../components/EntradaNumerica";
+import EntradaNumerica from "@/components/EntradaNumerica";
 import { useState } from "react";
 
 export default function Formulario() {
