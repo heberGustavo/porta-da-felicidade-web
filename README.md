@@ -1,4 +1,4 @@
-<h1>Porta da Felicidade 🤹🚪</h1>
+<h1 align="center">Porta da Felicidade 🤹🚪</h1>
 </br>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - Models
 
 ## :gear: Architecture
-![image](https://github.com/user-attachments/assets/a957bef4-b365-4d8f-9e66-5f19ce79e87d)
+![image](https://github.com/user-attachments/assets/cf5e9a78-0d17-4b9c-ba08-b4323dacd35d)
 
 ## :round_pushpin: Demo
 [porta-da-felicidade.webm](https://github.com/user-attachments/assets/7ce1e118-6f48-48eb-aa48-19d42974a2b2)
