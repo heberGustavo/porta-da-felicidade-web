@@ -20,7 +20,7 @@
 - Models
 
 ## :gear: Architecture
-![image](https://github.com/user-attachments/assets/82075bc4-2f85-4078-be57-86af3aa81e3f)
+![image](https://github.com/user-attachments/assets/a957bef4-b365-4d8f-9e66-5f19ce79e87d)
 
 ## :round_pushpin: Demo
 [porta-da-felicidade.webm](https://github.com/user-attachments/assets/7ce1e118-6f48-48eb-aa48-19d42974a2b2)
