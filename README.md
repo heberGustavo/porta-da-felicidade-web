@@ -50,3 +50,10 @@ $ git clone https://github.com/heberGustavo/porta-da-felicidade-web.git
 
 ## :memo: Licence 
 This project is under the MIT license. See the [LICENSE](https://github.com/heberGustavo/porta-da-felicidade-web/blob/main/LICENSE) for more information.
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/44476616?v=4" style="max-width: 100%;width: 90px;"><br><sub>Heber Gustavo</sub>](https://github.com/heberGustavo) |
+| :---: |
+|[Linkedin](https://www.linkedin.com/in/heber-gustavo/)|
+
